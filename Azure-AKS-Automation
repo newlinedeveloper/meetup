@@ -1,14 +1,14 @@
 Before start this excercise,you must have running CENTOS 7 linux machine.
 
-Step 1: Install AZURE CLI in CentOS 7 Machine
-Step 2 - first install docker in the local linux machine
-Step 3: Download sample application
-Step 4: Test sample application
-Step 5: Deploy and use Azure Container Registry
-Step 6: install kubectl command 
-Step 7: Deploy an Azure Kubernetes Service (AKS) cluster
-Step 8: Run applications in Azure Kubernetes Service (AKS)
-Step 9: Scale applications in Azure Kubernetes Service (AKS)
+Step 1:  Install AZURE CLI in CentOS 7 Machine
+Step 2:  First install docker in the local linux machine
+Step 3:  Download sample application
+Step 4:  Test sample application
+Step 5:  Deploy and use Azure Container Registry
+Step 6:  Install kubectl command 
+Step 7:  Deploy an Azure Kubernetes Service (AKS) cluster
+Step 8:  Run applications in Azure Kubernetes Service (AKS)
+Step 9:  Scale applications in Azure Kubernetes Service (AKS)
 Step 10: Autoscale pods
 Step 11: Manually scale AKS nodes (worker nodes)
 Step 12: Update an application in Azure Kubernetes Service (AKS)
