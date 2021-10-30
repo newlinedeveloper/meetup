@@ -2,7 +2,11 @@
 
 # Before start this excercise,you must have running CENTOS 7 linux machine.
 
- - ** create 1 centos 7 linux machine in AZURE Cloud**
+# AZURE VM
+ - create 1 centos 7 linux machine in AZURE Cloud
+ - make sure you opened RDP,http,8080 ports for this new linux AZURE VM
+ 
+# Steps
 
 - Step 1:  Install AZURE CLI in CentOS 7 Machine
 - Step 2:  First install docker in the local linux machine
