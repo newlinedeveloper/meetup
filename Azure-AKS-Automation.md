@@ -61,36 +61,36 @@ yum install yum-utils device-mapper-persistent-data lvm2  bash-completion bash-c
 
 source /etc/profile.d/bash_completion.sh
 
-#Add the stable Docker repository by typing:
+## Step 2.1 - Add the stable Docker repository by typing:
 
 yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 
 
-#Now that we have Docker repository enabled, we can install the latest version of Docker CE (Community Edition) using yum by typing:
+## Step 2.1 - Now that we have Docker repository enabled, we can install the latest version of Docker CE (Community Edition) using yum by typing:
 
 yum install docker-ce -y
 
 yum install docker-compose -y
 
-#Once the Docker package is installed, we start the Docker daemon with:
+## Step 2.1 - Once the Docker package is installed, we start the Docker daemon with:
 
 systemctl start docker
 
-#To verify that the Docker service is running type:
+## Step 2.1 - To verify that the Docker service is running type:
 
 systemctl status docker
 
-#Enable the Docker service to be automatically started at boot time:
+## Step 2.1 - Enable the Docker service to be automatically started at boot time:
 
 systemctl enable docker
 
-#At the time of the writing of this article, the current stable version of Docker is 18.03.1, we can check our Docker version by typing:
+## Step 2.1 - At the time of the writing of this article, the current stable version of Docker is 18.03.1, we can check our Docker version by typing:
 
 docker -v
 
-**************************************************************************************************************************************
 
-Step 3: Download sample application
+
+# Step 3: Download sample application
 
 yum install git tree -y
 
@@ -102,17 +102,14 @@ docker-compose up -d
 
 docker images
 
-**************************************************************************************************************************************
-Step 4: Test sample application
+# Step 4: Test sample application
 
 Test application locally
 
 To see the running application, enter http://localhost:8080 in a local web browser
 
 
-**************************************************************************************************************************************
-
-Step 5: Deploy and use Azure Container Registry
+# Step 5: Deploy and use Azure Container Registry
 
 az group create --name myResourceGroup --location eastus
 
@@ -140,10 +137,7 @@ az acr repository list --name cnlacr --output table
 
 az acr repository show-tags --name cnlacr --repository azure-vote-front --output table
 
-
-
-**************************************************************************************************************************************
-Step 6: install kubectl command 
+# Step 6: install kubectl command 
 
 coz it wont work (because of the the direct standalone centos machine)
 
@@ -168,8 +162,8 @@ to ensure all are ok the following command should work without any error
 
 kubectl version --client
 
-**************************************************************************************************************************************
-Step 7: Deploy an Azure Kubernetes Service (AKS) cluster
+
+# Step 7: Deploy an Azure Kubernetes Service (AKS) cluster
 
 az aks create \
     --resource-group myResourceGroup \
@@ -185,9 +179,7 @@ az aks create \
 
 kubectl get nodes
 
-**************************************************************************************************************************************
-
-Step 8: Run applications in Azure Kubernetes Service (AKS)
+# Step 8: Run applications in Azure Kubernetes Service (AKS)
 
 
 az acr list --resource-group myResourceGroup --query "[].{acrLoginServer:loginServer}" --output table
@@ -208,7 +200,7 @@ from the above command output get the EXTERNAL-IP and access it from browser
 
 **************************************************************************************************************************************
 
-Step 9: Scale applications in Azure Kubernetes Service (AKS)
+# Step 9: Scale applications in Azure Kubernetes Service (AKS)
 
 in another putty window run the following command
 
@@ -223,9 +215,7 @@ kubectl scale --replicas=2 deployment/azure-vote-front
 kubectl scale --replicas=4 deployment/azure-vote-front
 
 
-**************************************************************************************************************************************
-
-Step 10: Autoscale pods
+# Step 10: Autoscale pods
 
 Kubernetes supports horizontal pod autoscaling to adjust the number of pods in a deployment depending on CPU utilization or other select metrics. The Metrics Server is used to provide resource utilization to Kubernetes, and is automatically deployed in AKS clusters versions 1.10 and higher. To see the version of your AKS cluster, use the az aks show command, as shown in the following example:
 
@@ -253,18 +243,12 @@ kubectl autoscale deployment azure-vote-front --cpu-percent=50 --min=2 --max=10
 
 wait for 10 mins and you can see azure-vote-front pod now came down to 2 
 
-
-**************************************************************************************************************************************
-
-Step 11: Manually scale AKS nodes (worker nodes)
+# Step 11: Manually scale AKS nodes (worker nodes)
 
 az aks scale --resource-group myResourceGroup --name myAKSCluster --node-count 3
 
 
-**************************************************************************************************************************************
-
-
-Step 12: Update an application in Azure Kubernetes Service (AKS)
+# Step 12: Update an application in Azure Kubernetes Service (AKS)
 
 make some change in application
 
@@ -295,6 +279,4 @@ run kubectl get service azure-vote-front command
 
 now access 20.72.185.232 (external ip) in browser
 
-you will see Blue,Purple,
-
-**************************************************************************************************************************************
+you will see Blue,Purple
