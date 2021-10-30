@@ -23,34 +23,39 @@
 
 #
 
-Step 1: Install AZURE CLI
+# Step 1: Install AZURE CLI
+
+```
 
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+```
 
+```
 sudo sh -c 'echo -e "[azure-cli]
 name=Azure CLI
 baseurl=https://packages.microsoft.com/yumrepos/azure-cli
 enabled=1
 gpgcheck=1
 gpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/azure-cli.repo'
+```
 
-
-
+```
 sudo yum install azure-cli -y
-
-
+```
+```
 az login
+```
 
-Now your linux machine has been fully authenticated with AZURE login.
+- Now your linux machine has been fully authenticated with AZURE login.
 
-**************************************************************************************************************************************
+# Step 2 - first install docker in the local linux machine
 
-Step 2 - first install docker in the local linux machine
-
+```
  yum install epel-release -y
  yum repolist
+```
 
-#Install the required dependencies:
+## Step 2.1 - Install the required dependencies:
 
 yum install yum-utils device-mapper-persistent-data lvm2  bash-completion bash-completion-extras -y
 
