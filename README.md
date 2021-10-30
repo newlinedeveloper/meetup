@@ -1,4 +1,7 @@
 ### Hi there 👋, I'm Vijayabalan Balakrishnan
+
+### 🤫 Dont know anything.But always have confident to try and smash it.
+
 #### Learn-Grow-Support Cancer Children
 ![Learn-Grow-Support Cancer Children](https://github.com/cloudnloud/meetup/blob/main/cnl.png)
 
@@ -9,22 +12,24 @@ Past 9 years Cloudnloud Cancer NGO helped many IT professionals to learn niche t
 Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization,Data,AI,Python,Ansible,Terraform,
 
 ### Feel Free to engage me and Loud Better:
-
-- 🔭 Trying make everyone to learn try and Fail habbit in their own LAB. 
-- 🌱 Pushing Everyone to learn Confidently. 
+👇
+- 🔭 Trying to make everyone to learn try and Fail habbit in their own LAB. 
+- 💪 Pushing Everyone to learn Confidently. 
 - 👯 Trying to make everyone to loud better from their confidence. 
-- 🤔 I’m looking for more hands in this cloudnloud Cancer NGO initiatives. 
-- 💬 Ask me about IT career related
-- 💬 Ask me about OverSeas Migration Related
-- 💬 Ask me about Any useCase Related 
-- 💬 Ask me about Any Europe Jobs Related 
-- 💬 Ask me about Any Europe Visa Sponsorship Related 
-- 💬 Ask me about Any Solution Architecture Related 
-- 📫 How to reach me: vijay@cloudnloud.com 
-- 😄 Pronouns: you can call me as vijay 
-- ⚡ Fun fact: Join with me on this Children Cancer NGO initiatives. 
+- 💬 Ask me about IT career related.
+- 💬 Ask me about OverSeas Migration Related.
+- 💬 Ask me about Any Cloud,DevOps,K8s,Data,AI useCase Related.
+- 💬 Ask me about Any Europe Jobs Related. 
+- 💬 Ask me about Any Europe Visa Sponsorship Related.
+- 💬 Ask me about Any Solution Architecture Related.
+- 😄 Pronouns: you can call me as vijay.
+- 🙏 I’m looking for more hands in this cloudnloud Cancer NGO initiatives.
+- 🙏 Fun fact: Join with me on this Children Cancer NGO initiatives.
+- 📫 How to reach me: vijay@cloudnloud.com.
+-   
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
+- Click below Picture 👇
 
 [![Watch the video](https://github.com/cloudnloud/meetup/blob/main/cover.png)](https://www.youtube.com/channel/cloudnloud)
 
