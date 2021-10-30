@@ -21,6 +21,8 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 😄 Pronouns: you can call me as vijay 
 - ⚡ Fun fact: Join with me on this Children Cancer NGO initiatives. 
 
+### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
+
 [![Watch the video](https://github.com/cloudnloud/meetup/blob/main/cover.png)](https://www.youtube.com/channel/cloudnloud)
 
 
@@ -40,4 +42,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cloudnloud)  
 
-![Profile views](https://gpvc.arturio.dev/cloudnloud)  
+![Profile views](https://gpvc.arturio.dev/cloudnloud)
+
+
+  
