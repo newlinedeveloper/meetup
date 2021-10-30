@@ -1,52 +1,35 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Vijayabalan Balakrishnan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there 👋, I'm Vijayabalan Balakrishnan
+#### Learn-Grow-Support Cancer Children
+![Learn-Grow-Support Cancer Children](https://github.com/cloudnloud/meetup/blob/main/cnl.png)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vijaystack/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/80359681/admin/)
-[![Youtube Badge]
-[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/c/CloudnLoud)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.cloudnloud.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/cloudnloud)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/joinchat/GaTlYKfFZEw3YmE1)
+Past 9 years Cloudnloud Cancer NGO helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cloudnloud)
+Skills: Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization,Data,AI,Python,Ansible,Terraform,
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
-  
-
-**Talking about Personal Stuffs:**
-
-- 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- 💬 Ask me about anything, I am happy to help;
-- 📝 I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- 📫 How to reach me: gapur.kassym@gmail.com;
-- 📝 [Resume](https://gkassym.netlify.app/Resume.pdf).
-
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 13 mins   ████████████████████▓░░░░   82.44 % 
-JSON         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-XML          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-JavaScript   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-CSS          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-```
-<!--END_SECTION:waka-->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning new technologies 
+- 👯 I’m looking to collaborate on all your career query clarifications 
+- 🤔 I’m looking for help with students doubts 
+- 💬 Ask me about all IT career related,OverSeas Migration Related,Any useCase Related 
+- 📫 How to reach me: vijay@cloudnloud.com 
+- 😄 Pronouns: you can call me as vijay 
+- ⚡ Fun fact: Join with me on this Children Cancer NGO initiatives. 
 
 
-📈 **My GitHub Stats:**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cloudnloud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vijaystack/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/cloudnloudtech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cloudnloud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/cloudnloud)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cloudnloud.com)  
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cloudnloud)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudnloud)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudnloud&show_icons=true&count_private=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloudnloud)  
+
+![GitHub metrics](https://metrics.lecoq.io/cloudnloud)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cloudnloud)  
+
+![Profile views](https://gpvc.arturio.dev/cloudnloud)  
