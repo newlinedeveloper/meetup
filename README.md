@@ -26,10 +26,12 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 [![Watch the video](https://github.com/cloudnloud/meetup/blob/main/cover.png)](https://www.youtube.com/channel/cloudnloud)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Us to know your talents:</h3>
 <p align="left">
 <a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/80359681/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vijaystack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
 <a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 </p>
