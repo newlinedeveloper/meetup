@@ -25,10 +25,11 @@
 
 # Step 1: Install AZURE CLI
 
+- Add the azure CLI Repository keys
 ```
-
 sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
 ```
+- Configure the azure CLI Repository
 
 ```
 sudo sh -c 'echo -e "[azure-cli]
@@ -38,15 +39,19 @@ enabled=1
 gpgcheck=1
 gpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/azure-cli.repo'
 ```
+- Install Azure CLI
 
 ```
 sudo yum install azure-cli -y
 ```
+
+- Login and sync your Azure CLI (Linux machine) to your portal.azure.com account
+
 ```
 az login
 ```
 
-- Now your linux machine has been fully authenticated with AZURE login.
+- Now your linux machine has been fully authenticated with AZURE login.  
 
 # Step 2 - first install docker in the local linux machine
 
@@ -136,6 +141,7 @@ docker -v
 yum install git tree -y
 
 ```
+- Download the sample azure application
 
 ```
 git clone https://github.com/Azure-Samples/azure-voting-app-redis.git
@@ -144,10 +150,12 @@ git clone https://github.com/Azure-Samples/azure-voting-app-redis.git
 ```
 cd azure-voting-app-redis
 ```
+- Build the docker image using docker compose
 
 ```
 docker-compose up -d
 ```
+- list the docker images
 
 ```
 docker images
@@ -159,48 +167,77 @@ docker images
 
 - To see the running application, enter http://localhost:8080 in a local web browser
 
+- To see the running application, enter http://<your VM Public IP>:8080 in a local web browser
 
 # Step 5: Deploy and use Azure Container Registry
+
+- Create AZURE resource Group
 
 ```
 az group create --name myResourceGroup --location eastus
 ```
 
+- Create AZURE Container Registry Under the above Created Resource Group.
+
+
 ```
 az acr create --resource-group myResourceGroup --name cnlacr --sku Basic
 ```
+
+- Login to the Azure Container registry
+
 
 ```
 az acr login --name cnlacr
 ```
 
+- List the Docker Images
+
+
 ```
 docker images
 ```
+
+- List the no of ACR in your portal.azure.com
+
 
 ```
 az acr list --resource-group myResourceGroup --query "[].{acrLoginServer:loginServer}" --output table
 ```
 
+- you will get the below output.So your AZURE Container Registry Name is below ...
+
+
 ```
 cnlacr.azurecr.io
 ```
 
+
+- you need to change the docker image name towards to match your ACR repo name.Or else while you push the image will end up with error.
+
+
 ```
 docker tag mcr.microsoft.com/azuredocs/azure-vote-front:v1 cnlacr.azurecr.io/azure-vote-front:v1
 ```
+- List the docker images
+
+- Make sure you are seeing the docker image name with match to your ACR repository.
 
 ```
 docker images
 ```
+- Push your prepared custom image to your newly created ACR.
 
 ```
 docker push cnlacr.azurecr.io/azure-vote-front:v1
 ```
 
+- list the ACR repository revisions
+
 ```
 az acr repository list --name cnlacr --output table
 ```
+- List your repository in ACR.
 
 ```
 az acr repository show-tags --name cnlacr --repository azure-vote-front --output table
@@ -209,7 +246,7 @@ az acr repository show-tags --name cnlacr --repository azure-vote-front --output
 
 # Step 6: install kubectl command 
 
-- coz it wont work (because of the the direct standalone centos machine)
+- Configure Kubernetes Software package repo.
 
 ```
 cat <<EOF > /etc/yum.repos.d/kubernetes.repo
@@ -223,6 +260,8 @@ gpgkey=https://packages.cloud.google.com/yum/doc/yum-key.gpg https://packages.cl
 EOF
 ```
 
+- Install Kubectl
+
 ```
 yum install -y kubectl
 ```
@@ -235,6 +274,11 @@ kubectl version --client
 
 # Step 7: Deploy an Azure Kubernetes Service (AKS) cluster
 
+- Create kubernetes Cluster with 1 worker Node
+
+- In your learning setup,if you have project portal.azure.com test account then increase node count from 1 to 3.
+
+
 ```
 az aks create \
     --resource-group myResourceGroup \
@@ -244,14 +288,17 @@ az aks create \
     --attach-acr cnlacr
 	
 ```
+- Install AZURE AKS CLI
 
 ```
 az aks install-cli
 ```
+- Reterive the AKS cluster credentials.This will help kubectl command to run without any issues.
 
 ```
 az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
 ```
+- List all the nodes in Kubernetes cluster.
 
 ```
 kubectl get nodes
@@ -260,9 +307,12 @@ kubectl get nodes
 
 # Step 8: Run applications in Azure Kubernetes Service (AKS)
 
+- List the ACR 
+
 ```
 az acr list --resource-group myResourceGroup --query "[].{acrLoginServer:loginServer}" --output table
 ```
+- Change your front end to your recently deployed own image repo.
 
 ```
 vi azure-vote-all-in-one-redis.yaml
@@ -274,10 +324,12 @@ containers:
 - name: azure-vote-front
   image: cnlacr.azurecr.io/azure-vote-front:v1
 ```
+- Apply the changes into AKS k8s cluster.
 
 ```
 kubectl apply -f azure-vote-all-in-one-redis.yaml
 ```
+- Monitor the change progress.
 
 ```
 kubectl get service azure-vote-front --watch
@@ -364,23 +416,31 @@ VOTE1VALUE = 'Fail'
 VOTE2VALUE = 'TryFailWin'
 SHOWHOST = 'false'
 ```
-
+- Build the Docker image with v2.
 ```
 docker-compose up --build -d
 ```
+
+
+- you need to change the docker image name towards to match your ACR repo name.Or else while you push the image will end up with error.
+
 
 ```
 docker tag mcr.microsoft.com/azuredocs/azure-vote-front:v1 cnlacr.azurecr.io/azure-vote-front:v2
 ```
 
+- Push your prepared custom image to your newly created ACR.
+
 ```
 docker push cnlacr.azurecr.io/azure-vote-front:v2
 ```
 
+- Scale your pods to 3 replicas
+
 ```
 kubectl scale --replicas=3 deployment/azure-vote-front
 ```
-
+- Set and prepare your deployment to new version 2
 ```
 kubectl set image deployment azure-vote-front azure-vote-front=cnlacr.azurecr.io/azure-vote-front:v2
 ```
