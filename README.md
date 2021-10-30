@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Vijayabalan Balakrishnan
 
+### Started IT Life as a computer cleaner 3 decades back and still learning as a fresher.
+
 #### Learn-Grow-Support Cancer Children
 
 
