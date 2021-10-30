@@ -15,6 +15,8 @@ Skills: Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuva
 - 😄 Pronouns: you can call me as vijay 
 - ⚡ Fun fact: Join with me on this Children Cancer NGO initiatives. 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cloudnloud)  [<img src='https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/vijaystack/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/cloudnloudtech)  [<img src='https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/cloudnloud)  [<img src='https://img.shields.io/badge/YouTube-Channel-red' alt='YouTube' height='40'>](https://www.youtube.com/channel/cloudnloud)  [<img src='https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white' alt='website' height='40'>](https://www.cloudnloud.com)  
 
