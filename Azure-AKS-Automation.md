@@ -397,6 +397,10 @@ kubectl autoscale deployment azure-vote-front --cpu-percent=50 --min=2 --max=10
 - wait for 10 mins and you can see azure-vote-front pod now came down to 2 
 
 # Step 11: Manually scale AKS nodes (worker nodes)
+
+- only you do this if you have more allocated resource portal.azure.com cloud account.
+
+
 ```
 az aks scale --resource-group myResourceGroup --name myAKSCluster --node-count 3
 ```
