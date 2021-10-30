@@ -26,7 +26,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 🙏 I’m looking for more hands in this cloudnloud Cancer NGO initiatives.
 - 🙏 Fun fact: Join with me on this Children Cancer NGO initiatives.
 - 📫 How to reach me: vijay@cloudnloud.com.
--   
+ 
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
 - Click below Picture 👇
