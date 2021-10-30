@@ -26,7 +26,15 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 [![Watch the video](https://github.com/cloudnloud/meetup/blob/main/cover.png)](https://www.youtube.com/channel/cloudnloud)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cloudnloud)  [<img src='https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white' alt='linkedin' height='40'>](https://www.linkedin.com/in/vijaystack/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/cloudnloudtech)  [<img src='https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white' alt='twitter' height='40'>](https://twitter.com/cloudnloud)  [<img src='https://img.shields.io/badge/YouTube-Channel-red' alt='YouTube' height='40'>](https://www.youtube.com/channel/cloudnloud)  [<img src='https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white' alt='website' height='40'>](https://www.cloudnloud.com)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
+</p>
+
+ 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
