@@ -17,6 +17,9 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 💬 Ask me about IT career related
 - 💬 Ask me about OverSeas Migration Related
 - 💬 Ask me about Any useCase Related 
+- 💬 Ask me about Any Europe Jobs Related 
+- 💬 Ask me about Any Europe Visa Sponsorship Related 
+- 💬 Ask me about Any Solution Architecture Related 
 - 📫 How to reach me: vijay@cloudnloud.com 
 - 😄 Pronouns: you can call me as vijay 
 - ⚡ Fun fact: Join with me on this Children Cancer NGO initiatives. 
@@ -31,10 +34,10 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 <h3 align="left">Connect with Us to know your talents:</h3>
 <p align="left">
-<a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/company/80359681/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
 <a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
 </p>
 
  
