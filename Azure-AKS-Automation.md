@@ -5,12 +5,12 @@
 [![Watch the image](/architecture.png)]
 
 # AZURE VM
- - create 1 centos 7 linux machine in AZURE Cloud
+ - create 1 rocky linux 8.5 machine in AZURE Cloud
  - make sure you opened RDP,http,8080 ports for this new linux AZURE VM
  
 # Steps
 
-- Step 1:  Install AZURE CLI in CentOS 7 Machine
+- Step 1:  Install AZURE CLI in rocky linux 8.5 Machine
 - Step 2:  First install docker in the local linux machine
 - Step 3:  Download sample application
 - Step 4:  Test sample application
@@ -276,7 +276,7 @@ kubectl version --client
 
 # Step 7: Deploy an Azure Kubernetes Service (AKS) cluster
 
-- Create kubernetes Cluster with 1 worker Node
+- Create kubernetes Cluster with 2 worker Node
 
 - In your learning setup,if you have project portal.azure.com test account then increase node count from 1 to 3.
 
@@ -285,7 +285,7 @@ kubectl version --client
 az aks create \
     --resource-group myResourceGroup \
     --name myAKSCluster \
-    --node-count 1 \
+    --node-count 2 \
     --generate-ssh-keys \
     --attach-acr cnlacr
 	
@@ -459,3 +459,93 @@ kubectl get service azure-vote-front
 - Now access your (external ip) in browser
 
 - you will see Fail & TryFailWin
+
+# Step 12: Update an application in Azure Kubernetes Service (AKS)
+
+
+# now deploy sample application in kubernetes cluster in new namespace
+
+```
+kubectl create ns k8sdemo
+
+kubectl apply -f https://raw.githubusercontent.com/bvijaycom/meetup/main/guestbook-all-in-one.yaml -n k8sdemo
+
+```
+
+## open putty in the 2nd window and run the below command
+
+```
+watch -n 1 kubectl get all -n k8sdemo -o wide
+
+
+```
+
+## now open new putty window and execute the below load script [replace the external ip with what you get from above command output]
+
+
+```
+while true; do
+curl -m 1 http://20.102.24.82/;
+sleep 5;
+done
+
+```
+
+## go to virtual machine scale sets....
+
+## you will see 2 nodes .After navigating to the pane of the scale set, go to the Instances view, select the instance you want to shut down, and then hit the Stop button
+
+
+
+## access http://20.102.24.82/ and keep submit the entries..Keep watch the **watch -n 1 kubectl get all -n k8sdemo -o wide** command output
+
+## What you see here is the following:
+-  The Redis master pod running on node 2 got terminated as the host became unhealthy.
+- A new Redis master pod got created, on host 0. This went through the stages **Pending, ContainerCreating, and then Running**.
+
+
+# Solving out-of-resource failure
+
+- Kubernetes uses requests to calculate how much CPU power or memory a certain pod requires. The guestbook application has requests defined for all the deployments. If you open the guestbook-all-in-one.yaml file in the folder. you'll see the following for the redis-replica deployment:
+
+```
+63 kind: Deployment
+64 metadata:
+65 name: redis-replica
+...
+83 resources:
+84 requests:
+85 cpu: 200m
+86 memory: 100Mi
+
+```
+
+- This section explains that every pod for the redis-replica deployment requires 200m of a CPU core (200 milli or 20%) and 100MiB (Mebibyte) of memory. In your 2 CPU clusters (with node 1 shut down), scaling this to 10 pods will cause issues with the available resources. Let's look into this:
+
+# Let's start by scaling the redis-replica deployment to 10 pods:
+
+- kubectl scale deployment/redis-replica --replicas=10 -n k8sdemo
+
+
+# This will cause a couple of new pods to be created. We can check our pods  using the following:
+- now many are shown in pending state.This occurs if the cluster is out of resources.
+
+# We can get more information about these pending pods using the following command:
+ 
+```
+kubectl describe pod redis-replica-5bc7bcc9c4-svcc8 -n k8sdemo
+```
+
+now you will get the following output
+
+```
+Events:
+  Type     Reason            Age                  From               Message
+  ----     ------            ----                 ----               -------
+  Warning  FailedScheduling  46s (x2 over 2m14s)  default-scheduler  0/2 nodes are available: 1 Insufficient cpu, 1 node(s) had taint {node.kubernetes.io/unreachable: }, that the pod didn't tolerate.
+
+```
+
+# now start the stopped node from virtual scale set
+
+## Keep watch the **watch -n 1 kubectl get all -n k8sdemo -o wide** command
