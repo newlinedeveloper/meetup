@@ -468,7 +468,7 @@ kubectl get service azure-vote-front
 ```
 kubectl create ns k8sdemo
 
-kubectl apply -f https://raw.githubusercontent.com/bvijaycom/meetup/main/guestbook-all-in-one.yaml -n k8sdemo
+kubectl apply -f https://raw.githubusercontent.com/cloudnloud/meetup/main/guestbook-all-in-one.yaml -n k8sdemo
 
 ```
 
