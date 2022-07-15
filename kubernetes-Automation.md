@@ -522,6 +522,8 @@ done
 
 - This section explains that every pod for the redis-replica deployment requires 200m of a CPU core (200 milli or 20%) and 100MiB (Mebibyte) of memory. In your 2 CPU clusters (with node 1 shut down), scaling this to 10 pods will cause issues with the available resources. Let's look into this:
 
+- CPU is measured in milliCores. This means 1000m is 1 CPU.. Mi is, well, Mi.
+
 # Let's start by scaling the redis-replica deployment to 10 pods:
 
 - kubectl scale deployment/redis-replica --replicas=10 -n k8sdemo
