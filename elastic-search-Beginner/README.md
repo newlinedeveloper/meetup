@@ -1,3 +1,7 @@
+# About me
+
+[![Watch the video](profile.jpg)]
+
 # INSTALLATION OF ELASTICSEARCH ON AWS EC2
 
 - Before start this excercise,you must have running **AmazonEC2 Windows(minimum 2vcpus and 4GB Memory) machine**.
