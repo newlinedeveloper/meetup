@@ -28,39 +28,41 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach us: [WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
 =======
 
-![WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
->>>>>>> afc48cb2d3ee4719ff9958711983c178bfc1b99e
+--- 
+# :tv: YouTube - Latest Videos
+
+- [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
+- [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
+- [AZURE Administration - Full Course](https://www.youtube.com/watch?v=3WW95LThR0k&list=PLh_VNk4-EHTPgpEEUkj4G7gXqV47yIz7r)
+- [Ansible Administration - Full Course](https://www.youtube.com/watch?v=LhKucikHpVs&list=PLh_VNk4-EHTNbb18pkpZy_fnG2Dn0n6QR)
+- [DevOps - Jenkins CI/CD - Full Course](https://www.youtube.com/watch?v=rN6f8pyrOI8&list=PLh_VNk4-EHTN732T-CfM-7lG3fNpK__79)
+- [Docker Administration - Full Course](https://www.youtube.com/watch?v=ixtJg7EGlWw&list=PLh_VNk4-EHTP5rDgNYAWgg1vvcPG8eoIV)
+- [Kubernetes Administration - Full Course](https://www.youtube.com/watch?v=lv6AZCBbQ9Y&list=PLh_VNk4-EHTMhIR-NIgI4tCEHdO9U-A8F)
+
+
+
+- [Azure Postmortem Deep Dive](https://www.youtube.com/watch?v=FFYicqW6Qto&list=PLh_VNk4-EHTNDrb2AWVvH0M1XRl0usKRc)
+- [Technical Meetups](https://www.youtube.com/watch?v=cfaJY5P4sME&list=PLh_VNk4-EHTM9S6AcnQQfPno1G06HU0hC)
+- [Fresher-Real-Time Experience Fear](https://www.youtube.com/watch?v=pLgckrrPY08&list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
+- [Cloud General Queries](https://www.youtube.com/watch?v=uIMKuwMP5Uc&list=PLh_VNk4-EHTMj1jcedUnuDNT2Xz-rJ1sy)
+- [IT Job Questions Confidence](https://www.youtube.com/playlist?list=PLh_VNk4-EHTOWg4VL7_v_Ql7DsNW0DGtn)
+
  
+  
 
-### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
-- Click below Picture 👇
-
-[![Watch the video](https://github.com/cloudnloud/meetup/blob/main/cover.png)](https://www.youtube.com/channel/cloudnloud)
-
-<h3 align="left">Connect with Me:</h3>
-<a href="https://linkedin.com/in/vijaystack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+Mail - info@cloudnloud.com
 
 
-<h3 align="left">Connect with Us to know your talents:</h3>
+## 🤝🏻 Let's Keep in Touch
+
 <p align="left">
-<a href="https://www.youtube.com/c/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cloudnloud" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/company/80359681/admin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
-<a href="https://fb.com/cloudnloudtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cloudnloudtech" height="30" width="40" /></a>
-<a href="https://twitter.com/cloudnloud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cloudnloud" height="30" width="40" /></a>
-</p>
+<a href="https://cloudnloud.com/"><img alt="Website" src="https://img.shields.io/badge/Website-cloudnloud.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/vijaystack"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-vijayabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/cloudnloud"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-cloudnloud-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.youtube.com/user/cloudnloud"><img alt="Youtube" src="https://img.shields.io/badge/youtube-cloudnloud-blue?style=flat-square&logo=youtube"></a>
 
- 
+## 🐦 Latest Tweets
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cloudnloud)](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/cloudnloud?ref_src=twsrc%5Etfw")
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudnloud)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudnloud&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cloudnloud)  
-
-![GitHub metrics](https://metrics.lecoq.io/cloudnloud)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cloudnloud)  
-
-![Profile views](https://gpvc.arturio.dev/cloudnloud)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=cloudnloud&layout=wide)](https://github.com/gazf/github-readme-twitter)
