@@ -25,9 +25,11 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 😄 Pronouns: you can engage us as for any technology queries.
 - 🙏 I’m looking for more hands in this cloudnloud Cancer NGO initiatives.
 - 🙏 Join with us on this Children Cancer NGO initiatives.
-- 📫 How to reach us: 
+- 📫 How to reach us: [WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
+=======
 
-- [WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
+![WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
+>>>>>>> afc48cb2d3ee4719ff9958711983c178bfc1b99e
  
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
