@@ -28,6 +28,17 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 📫 How to reach us: [WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
 
 
+# Are you looking for speakers ?
+
+- 🔭 We jointly gathered and we have expertise on all latest technologies.If you have any speaker opportunities do let us know.we will come and present .
+
+ 
+# Are you looking to promote your product ?
+
+- As part of community dream we are delivering several free programs.Join with us to promote your deliverables.
+- You can sponsor your product swags via our community members which available across 67 countries.
+
+
 --- 
 # Meetup Programs
 
