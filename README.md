@@ -1,31 +1,33 @@
-### Hi there 👋, I'm Vijayabalan Balakrishnan
+### Welcome to Cloudnloud Tech Community
+
 
 #### Learn-Grow-Support Cancer Children
 
 
 ![Learn-Grow-Support Cancer Children](https://github.com/cloudnloud/meetup/blob/main/cnl.png)
 
-Past 9 years Cloudnloud Cancer NGO helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
+Past 11 years Cloudnloud Cancer NGO helped many IT professionals to learn niche technologies with real-time use cases in their own lab. We strongly believe the more we fail in our own lab, the more we are confident in the real-time scenarios.
 
 ### Skills: 
 
-Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization,Data,AI,Python,Ansible,Terraform,
+Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization,Data,AI,Python,Ansible,Terraform
 
-### Feel Free to engage me and Loud Better:
+### Feel Free to engage our community and Loud Better:
 👇
 - 🔭 Trying to make everyone to learn try and Fail habbit in their own LAB. 
 - 💪 Pushing Everyone to learn Confidently. 
 - 👯 Trying to make everyone to loud better from their confidence. 
-- 💬 Ask me about IT career related.
-- 💬 Ask me about OverSeas Migration Related.
-- 💬 Ask me about Any Cloud,DevOps,K8s,Data,AI useCase Related.
-- 💬 Ask me about Any Europe Jobs Related. 
-- 💬 Ask me about Any Europe Visa Sponsorship Related.
-- 💬 Ask me about Any Solution Architecture Related.
-- 😄 Pronouns: you can call me as vijay.
+- 💬 Ask us about IT career related.
+- 💬 Ask us about OverSeas Migration Related.
+- 💬 Ask us about Any Cloud,DevOps,K8s,Data,AI useCase Related.
+- 💬 Ask us about Any Europe Visa Sponsorship Related.
+- 💬 Ask us about Any Solution Architecture Related.
+- 😄 Pronouns: you can engage us as for any technology queries.
 - 🙏 I’m looking for more hands in this cloudnloud Cancer NGO initiatives.
-- 🙏 Join with me on this Children Cancer NGO initiatives.
-- 📫 How to reach me: vijay@cloudnloud.com.
+- 🙏 Join with us on this Children Cancer NGO initiatives.
+- 📫 How to reach us: 
+
+- [WhatsApp](https://wa.me/message/2EM3VEAMEMVHP1)
  
 
 ### Find All Cloud/DevOps Architect Trainings with Step-by-Step Handson with Use cases:
