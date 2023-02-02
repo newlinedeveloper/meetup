@@ -42,10 +42,10 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 --- 
 # Meetup Programs
 
-Week | Type of UseCase | Location | Speaker
-:------|:------|:------|:------|
-[elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/)
-[Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/)
+Week | Type of UseCase | Location | Speaker | Date
+:------|:------|:------|:------|:------|
+[elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) | 04-Feb-2023
+[Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/) | 04-Feb-2023
 
 
 --- 
