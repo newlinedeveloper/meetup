@@ -33,8 +33,8 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 Week | Type of UseCase | Location | Speaker
 :------|:------|:------|:------|
-[elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | Vijayalakshmi
-[Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | Veera
+[elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | [Vijayalakshmi] (https://www.linkedin.com/in/vijayatech/)
+[Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | [Veera] (https://www.linkedin.com/in/veera26/)
 
 
 --- 
