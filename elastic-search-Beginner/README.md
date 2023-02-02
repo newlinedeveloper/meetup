@@ -1,6 +1,6 @@
 # About me
 
-[![About Me](speaker.jpg)]
+![About Me](speaker.jpg)]
 
 # INSTALLATION OF ELASTICSEARCH ON AWS EC2
 
