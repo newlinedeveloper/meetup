@@ -30,7 +30,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 # Are you looking for speakers ?
 
-- 🔭 We jointly gathered and we have expertise on all latest technologies.If you have any speaker opportunities do let us know.we will come and present .
+- 🔭 Speakers : "Listening is a Skill, Making you Listen is a prowess"  - Yes, **We have a team of experienced Speakers people across various skillset and product expertise**. They have a proven knowledge and experiences through various meetups/webinars and their aspired listeners. Importantly, They have a active skillset aligned with current industry knowledge.
 
  
 # Are you looking to promote your product ?
