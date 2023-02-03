@@ -59,7 +59,7 @@ Week | Type of UseCase | Location | Speaker | Date
 
 
 --- 
-# :tv: YouTube - Latest Videos
+# :tv: YouTube - Latest Videos - Fully Free
 
 - [Cloud DevOps useCase Internship](https://www.youtube.com/playlist?list=PLh_VNk4-EHTMr69lm4Jxbl-9Vz5zc1Apl) - Course for beginners.
 - [AWS Solution Architect - Full Course](https://www.youtube.com/watch?v=kdqaP1PWPQI&list=PLh_VNk4-EHTNuNVfq9D8WoA2YQBvgV1Jt)
