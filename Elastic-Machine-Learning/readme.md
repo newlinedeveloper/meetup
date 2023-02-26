@@ -14,9 +14,6 @@ https://cloud.elastic.co/registration
 
 ```
 
-
-
-#### Usecase 1 : Anomaly Detection 
 ##### step 1 : Sign up for an Elastic Cloud account
 
 If you don't already have an Elastic Cloud account, sign up for one on the Elastic Cloud website.
@@ -81,7 +78,11 @@ Elastic Cloud provides sample data sets that you can use to test and demonstrate
 
 
 
-##### step 5 : Create an anomaly detection job
+
+### Usecase 1 : Anomaly Detection 
+
+
+##### step 1 : Create an anomaly detection job
 
  In Kibana, create an anomaly detection job using the sample data set by specifying the data source, selecting the machine learning algorithm, and setting the analysis parameters
 
@@ -91,7 +92,7 @@ Elastic Cloud provides sample data sets that you can use to test and demonstrate
 ###### View job
 ![view job](./view-job.png)
 
-##### step 6 : Train the model
+##### step 2 : Train the model
 
 Once the anomaly detection job is configured, train the machine learning model on the sample data set.
 
@@ -99,7 +100,7 @@ Once the anomaly detection job is configured, train the machine learning model o
 ###### Train job
 ![Train job](./train-models.png)
 
-##### step 7 : Review the results
+##### step 3 : Review the results
 
 After the model is trained, review the results in Kibana. The anomaly detection job will flag any data points that are considered anomalous based on the model's analysis.
 
@@ -114,7 +115,7 @@ After the model is trained, review the results in Kibana. The anomaly detection 
 
 
 
-##### step 8 : Take action
+##### step 4 : Take action
 
 Finally, take action on the anomalous data points, such as investigating the root cause of the anomaly, alerting stakeholders, or triggering automated responses.
 
@@ -130,8 +131,9 @@ Finally, take action on the anomalous data points, such as investigating the roo
 ![Select Algorithm](./select-data-frame-job.png)
 
 
-#### Usecase 2 : Outliner Detection 
+### Usecase 2 : Outliner Detection 
 
+Outlier detection is a type of machine learning algorithm that is used to identify observations in a dataset that deviate significantly from the rest of the data. Outliers are data points that are significantly different from the other observations and may indicate errors or anomalies in the data.
 
 ###### Select Outliner algorithm 
 
@@ -163,8 +165,42 @@ Finally, take action on the anomalous data points, such as investigating the roo
 
 
 
-#### Usecase 3 : Regression
+### Usecase 3 : Regression
+
+Regression is a type of supervised learning algorithm in machine learning that is used for predicting continuous numerical values based on a set of input features. It is a statistical method that seeks to model the relationship between a dependent variable (also called the target variable) and one or more independent variables (also called the predictor variables).
+
+###### Select Regression algorithm 
+
+![Select outliner](./regression-1.png)
 
 
-#### Usecase 4 : Classification
+###### Scatterplot matrix
+
+![Sactter plot matrix](./regression-2.png)
+
+
+###### Advanced options
+
+![Advanced options](./regression-3.png)
+
+
+###### Job Details
+
+![Job details](./regression-4.png)
+
+
+###### Validate & create job
+
+![Validate & create job](./regression-5.png)
+
+![Validate & create job](./regression-6.png)
+
+###### View result
+
+![view result](./regression-result.png)
+
+
+
+
+### Usecase 4 : Classification
 
