@@ -16,8 +16,7 @@ https://cloud.elastic.co/registration
 
 
 
-#### Steps to find out Anomaly Detection in Elastic machine learing
-
+#### Usecase 1 : Anomaly Detection 
 ##### step 1 : Sign up for an Elastic Cloud account
 
 If you don't already have an Elastic Cloud account, sign up for one on the Elastic Cloud website.
@@ -43,8 +42,6 @@ In the Elastic Cloud console, create an Elasticsearch cluster. You can choose th
 
 
 ###### Machine learning node Autoscaling configuration
-
-![Create deployment](./create-deployment.png)
 
 ![Select service provider](./select-cloudprovider.png)
 
@@ -122,4 +119,52 @@ After the model is trained, review the results in Kibana. The anomaly detection 
 Finally, take action on the anomalous data points, such as investigating the root cause of the anomaly, alerting stakeholders, or triggering automated responses.
 
 
+### Dataframe analytics
+
+###### Create Dataframe analytic job
+
+![Create Dataframe Analytics job](./create-dataframe-job.png)
+
+###### Select ML algorithm 
+
+![Select Algorithm](./select-data-frame-job.png)
+
+
+#### Usecase 2 : Outliner Detection 
+
+
+###### Select Outliner algorithm 
+
+![Select outliner](./outliner-1.png)
+
+
+###### Scatterplot matrix
+
+![Sactter plot matrix](./outliner-2.png)
+
+
+###### Advanced options
+
+![Advanced options](./outliner-3.png)
+
+
+###### Job Details
+
+![Job details](./outliner-4.png)
+
+
+###### Validate & create job
+
+![Validate & create job](./outliner-5.png)
+
+###### View result
+
+![view result](./outliner-result.png)
+
+
+
+#### Usecase 3 : Regression
+
+
+#### Usecase 4 : Classification
 
