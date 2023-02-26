@@ -205,7 +205,7 @@ Regression is a type of supervised learning algorithm in machine learning that i
 ### Usecase 4 : Classification
 
 
-Regression is a type of supervised learning algorithm in machine learning that is used for predicting continuous numerical values based on a set of input features. It is a statistical method that seeks to model the relationship between a dependent variable (also called the target variable) and one or more independent variables (also called the predictor variables).
+Classification is a type of supervised learning algorithm in machine learning that is used for predicting categorical values based on a set of input features. It is a method that seeks to learn a decision boundary between different classes of data.
 
 ###### Select Regression algorithm 
 
