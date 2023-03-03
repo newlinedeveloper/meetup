@@ -8,7 +8,7 @@
 
 - Let us use the Azure DevOps Project for build and release/deployment pipelines along with Azure ML services for model retraining pipeline, model management and operationalization.
 
-![Architecture](/pics/Picture1.png)
+![Architecture](pics/Picture1.png)
 
 
 # AWS EC2
