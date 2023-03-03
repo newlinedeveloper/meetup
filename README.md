@@ -48,6 +48,8 @@ Week | Type of UseCase | Location | Speaker | Date
 [elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) | 04-Feb-2023
 [Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/) | 04-Feb-2023
 [Ansible Community Day - Pune](/Ansible-AWX-Automation) | **Ansible_AWX Automation** | Pune | [Sanjay](https://www.linkedin.com/in/sanjaystack/) | 25-Feb-2023
+[Azure MLOPS Machine Learning-Beginner](/MLOPS_AzureMachineLearning) | **Azure MLOPS Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) | 04-MAR-2023
+
 
 # Ask all your queries
 
