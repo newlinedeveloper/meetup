@@ -50,7 +50,7 @@ Week | Type of UseCase | Location | Speaker | Date
 [Ansible Community Day - Pune](/Ansible-AWX-Automation) | **Ansible_AWX Automation** | Pune | [Sanjay](https://www.linkedin.com/in/sanjaystack/) | 25-Feb-2023
 [Azure MLOPS Machine Learning-Beginner](/MLOPS_AzureMachineLearning) | **Azure MLOPS Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) | 04-MAR-2023
 [Elastic Machine Learning](/Elastic-Machine-Learning) | **Elastic machine Learning Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/) | 04-Mar-2023
-[Elastic Machine Learning](/Applications-of-AI-and-ML) | **Applications-of-AI-and-ML Expert** | Chennai | [Aadhityaa SB](https://www.linkedin.com/in/aadhi06/) | 04-Mar-2023
+[Applications-of-AI-and-ML](/Applications-of-AI-and-ML) | **Applications-of-AI-and-ML Expert** | Chennai | [Aadhityaa SB](https://www.linkedin.com/in/aadhi06/) | 04-Mar-2023
 
 
 
