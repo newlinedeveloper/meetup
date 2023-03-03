@@ -43,3 +43,137 @@
 > Now we have the Azure DevOps Project Created.  
 
 ![Architecture](pics/Picture4.png)
+
+
+## Install the Azure Machine Learning extension
+
+> Install the Azure Machine Learning extension to your Azure DevOps organization from the Visual Studio Marketplace by clicking "Get it free" and following the steps. The UI will tell you if try to add it and it's already installed.
+
+> This extension contains the Azure ML pipeline tasks and adds the ability to create Azure ML Workspace service connections.
+
+![Architecture](pics/Picture5.png)
+
+
+> Click on it --> Go to “Browse Marketplace” --> search for “Machine Learning Extension”
+
+![Architecture](pics/Picture6.png)
+
+
+
+![Architecture](pics/Picture7.png)
+
+> Once it is installed, go back to the project that has been created and navigate to 
+
+> Pipelines --> Library --> Create Variable Group
+
+- Create a Variable Group for your Pipeline:
+- Create a variable group named devopsforai-aml-vg. The YAML pipeline definitions in this repository refer to this variable group by name.
+
+
+- The variable group should contain the following required variables. 
+
+
+![Architecture](pics/Picture8.png)
+
+![Architecture](pics/Picture9.png)
+
+![Architecture](pics/Picture10.png)
+
+![Architecture](pics/Picture11.png)
+
+![Architecture](pics/table.png)
+
+![Architecture](pics/table1.png)
+
+![Architecture](pics/Picture12.png)
+
+
+![Architecture](pics/Picture14.png)
+
+![Architecture](pics/Picture15.png)
+
+![Architecture](pics/Picture16.png)
+
+> While trying to add service connection, we will be asked to authenticate using the azure account.
+
+
+![Architecture](pics/Picture17.png)
+
+![Architecture](pics/Picture18.png)
+
+![Architecture](pics/Picture19.png)
+
+![Architecture](pics/table2.png)
+
+![Architecture](pics/Picture20.png)
+
+![Architecture](pics/Picture21.png)
+
+![Architecture](pics/Picture22.png)
+
+![Architecture](pics/Picture23.png)
+
+![Architecture](pics/Picture24.png)
+
+![Architecture](pics/Picture25.png)
+
+![Architecture](pics/Picture26.png)
+
+![Architecture](pics/Picture27.png)
+
+> Having done that, run the pipeline: - this should create a resource group, a Key Vault, a Storage Account, a Container Registry, an Application Insights and a Machine Learning workspace.
+
+![Architecture](pics/Picture28.png)
+
+![Architecture](pics/Picture29.png)
+
+![Architecture](pics/Picture30.png)
+
+> Once the build job is successful, Check on the resources created via Azure portal.
+
+![Architecture](pics/Picture31.png)
+
+![Architecture](pics/table3.png)
+
+![Architecture](pics/Picture32.png)
+
+![Architecture](pics/Picture33.png)
+
+![Architecture](pics/table4.png)
+
+![Architecture](pics/Picture34.png)
+
+![Architecture](pics/Picture35.png)
+
+![Architecture](pics/Picture36.png)
+
+
+> Great, you now have the build pipeline for training set up which automatically triggers every time there's a change in the master branch!
+
+
+> After the pipeline is finished, you'll also see a new model in the AML Workspace model registry section:
+
+
+![Architecture](pics/Picture37.png)
+
+
+![Architecture](pics/Picture38.png)
+
+
+![Architecture](pics/table5.png)
+
+
+![Architecture](pics/table6.png)
+
+
+![Architecture](pics/Picture39.png)
+
+![Architecture](pics/table7.png)
+
+![Architecture](pics/Picture40.png)
+
+![Architecture](pics/Picture41.png)
+
+![Architecture](pics/Picture42.png)
+
+![Architecture](pics/Picture43.png)
