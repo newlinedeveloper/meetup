@@ -1,6 +1,6 @@
 # About me
 
-![About Me](speaker.jpg)
+![About Me](speaker.png)
 
 # Real World Applications of AI and ML - Deep Dive 
 
