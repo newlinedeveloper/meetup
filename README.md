@@ -44,6 +44,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 
 Week | Type of UseCase | Location | Speaker | Date
 :------|:------|:------|:------|:------|
+[Real world Applications of AI and ML- Deep Dive](/Applications-of-AI-and-ML) | **Applications of AI and ML- Intermediate** | Chennai | [Aadhityaa](https://www.linkedin.com/in/aadhi06/) | 04-Feb-2023
 [elastic-search-Beginner](/elastic-search-Beginner) | **Elastic Search Beginner** | Chennai | [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) | 04-Feb-2023
 [Azure_ELK_demo-expert](/Azure_ELK_demo-expert) | **Azure_ELK Demo Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/) | 04-Feb-2023
 [Ansible Community Day - Pune](/Ansible-AWX-Automation) | **Ansible_AWX Automation** | Pune | [Sanjay](https://www.linkedin.com/in/sanjaystack/) | 25-Feb-2023
