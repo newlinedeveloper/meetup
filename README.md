@@ -52,7 +52,7 @@ Week | Type of UseCase | Location | Speaker | Date
 [Elastic Machine Learning](/Elastic-Machine-Learning) | **Elastic machine Learning Expert** | Chennai | [Veera](https://www.linkedin.com/in/veera26/) | 04-Mar-2023
 [Applications-of-AI-and-ML](/Applications-of-AI-and-ML) | **Applications-of-AI-and-ML Expert** | Chennai | [Aadhityaa SB](https://www.linkedin.com/in/aadhi06/) | 04-Mar-2023
 [Women Tech Event Chennai](/WTD2023Chennai) | **International Womens day Event by Google and Cloudnloud** | Chennai | [Kannammal](https://www.linkedin.com/in/kannamgcyber/) [Angai](https://www.linkedin.com/in/angaiteki/) [Sangeetha](https://www.linkedin.com/in/sangeetha-vasudevan-86267624/) [Anusha](https://www.linkedin.com/in/anushaviswanathan/) [Vijayalakshmi](https://www.linkedin.com/in/vijayatech/) [Deepa](https://www.linkedin.com/in/deepamathan/) [Janani](https://www.linkedin.com/in/jananitv/)| 01-Apr-2023
-[SDNB Vaishnava College for Women](/Students Union Valedictory) | **Power of Community & Having Growth Mindset** | Chennai | [Kannammal](https://www.linkedin.com/in/kannamgcyber/) | 15-Apr-2023
+[SDNB Vaishnava College for Women](/Students Union Valedictory)| **Power of Community & Having Growth Mindset** | Chennai | [Kannammal](https://www.linkedin.com/in/kannamgcyber/) | 15-Apr-2023
 
 # Ask all your queries
 
