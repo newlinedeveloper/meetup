@@ -1,3 +1,9 @@
+![About Me](veera.jpg)
+
+# Feedback
+
+- https://www.linkedin.com/feed/update/urn:li:activity:7027612774314762240/
+
 # AWS-Amplify-Masterclass
 Fullstack App development using AWS Amplify
 
